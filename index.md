@@ -6,11 +6,11 @@ My research interest: computer vision, machine learning
 ## Publications
 
 Self-Challenging Improves Cross-Domain Generalization  
-**Zeyi Huang**, Haohan Wang<sup>×</sup>, Dong Huang, Eric Xing  
+**Zeyi Huang**<sup>*</sup>, Haohan Wang<sup>*</sup>, Dong Huang, Eric Xing  
 PDF to appear
 
 Multiple Anchor Learning for Visual Object Detection  
-Kei Ke^*^, Tianliang Zhang*, **Zeyi Huang**, Qixiang Ye, Jianzhuang Liu, Dong Huang  
+Kei Ke<sup>*</sup>, Tianliang Zhang<sup>*</sup>, **Zeyi Huang**, Qixiang Ye, Jianzhuang Liu, Dong Huang  
 [PDF](https://arxiv.org/pdf/1912.02252.pdf),Code
 
 High-frequency Component Helps Explain the Generalization of Convolutional Neural Networks  
