@@ -1,5 +1,5 @@
 ## Biography
-Currently, I am a research associate in [Human Sensing Lab](http://humansensing.cs.cmu.edu/), Robotics Institute of Carnegie Mellon University. I obtained my M.S. degree from Robotics Institute of Carnegie Mellon University, and B.E. degree from Nanjing University of Science and Technology.  
+Currently, I am a research associate in [Human Sensing Lab](http://humansensing.cs.cmu.edu/), [Robotics Institute of Carnegie Mellon University](https://www.ri.cmu.edu/). I obtained my M.S. degree from Robotics Institute of Carnegie Mellon University, and B.E. degree from Nanjing University of Science and Technology.  
 
 My research interest: computer vision, machine learning
 
