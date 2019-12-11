@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Biography
+Currently, I am a research associate in [Human Sensing Lab](http://humansensing.cs.cmu.edu/), Robotics Institute of Carnegie Mellon University. I obtained my M.S. degree from Robotics Institute of Carnegie Mellon University, and B.E. degree from Nanjing University of Science and Technology.  
+My research interest: computer vision, machine learning
 
-You can use the [editor on GitHub](https://github.com/zeyihuang/zeyihuang.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Publications
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Self-Challenging Improves Cross-Domain Generalization  
+**Zeyi Huang***, Haohan Wang*, Dong Huang, Eric Xing  
+PDF to appear
 
-### Markdown
+Multiple Anchor Learning for Visual Object Detection  
+Wei Ke*, Tianliang Zhang*, **Zeyi Huang**, Qixiang Ye, Jianzhuang Liu, Dong Huang  
+[PDF](https://arxiv.org/pdf/1912.02252.pdf),Code
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+High-frequency Component Helps Explain \\the Generalization of Convolutional Neural Networks  
+Haohan Wang, Xindi Wu, **Zeyi Huang**, Eric Xing  
+PDF to appear
 
-```markdown
-Syntax highlighted code block
+Improving Object Detection with Inverted Attention  
+**Zeyi Huang**, Wei Ke, Dong Huang  
+[PDF](https://arxiv.org/pdf/1903.12255.pdf),[Code](https://github.com/Justinhzy/IAN),WACV,2020
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zeyihuang/zeyihuang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Discriminative Feature Learning with Consistent Attention Regularization for Person Re-identification  
+Sanping Zhou, Fei Wang, **Zeyi Huang**, and Jinjun Wang  
+[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhou_Discriminative_Feature_Learning_With_Consistent_Attention_Regularization_for_Person_Re-Identification_ICCV_2019_paper.pdf),ICCV,2019
