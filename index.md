@@ -13,7 +13,7 @@ Multiple Anchor Learning for Visual Object Detection
 Wei Ke*, Tianliang Zhang*, **Zeyi Huang**, Qixiang Ye, Jianzhuang Liu, Dong Huang  
 [PDF](https://arxiv.org/pdf/1912.02252.pdf),Code
 
-High-frequency Component Helps Explain \\the Generalization of Convolutional Neural Networks  
+High-frequency Component Helps Explain the Generalization of Convolutional Neural Networks  
 Haohan Wang, Xindi Wu, **Zeyi Huang**, Eric Xing  
 PDF to appear
 
