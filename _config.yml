@@ -1,1 +1,8 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
+title: [Zeyi Huang]
+description: zeyih (at) andrew (dot) cmu (dot) edu
+logo: fig/hzy.JPG
+show_downloads: false
+google_analytics:
+plugins:
+  - jemoji
