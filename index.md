@@ -10,7 +10,7 @@ Self-Challenging Improves Cross-Domain Generalization
 PDF to appear
 
 Multiple Anchor Learning for Visual Object Detection  
-Kei Ke<sup>*</sup>, Tianliang Zhang<sup>*</sup>, **Zeyi Huang**, Qixiang Ye, Jianzhuang Liu, Dong Huang  
+Wei Ke<sup>*</sup>, Tianliang Zhang<sup>*</sup>, **Zeyi Huang**, Qixiang Ye, Jianzhuang Liu, Dong Huang  
 [PDF](https://arxiv.org/pdf/1912.02252.pdf),Code
 
 High-frequency Component Helps Explain the Generalization of Convolutional Neural Networks  
