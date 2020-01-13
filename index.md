@@ -15,7 +15,7 @@ Wei Ke<sup>*</sup>, Tianliang Zhang<sup>*</sup>, **Zeyi Huang**, Qixiang Ye, Jia
 
 High-frequency Component Helps Explain the Generalization of Convolutional Neural Networks  
 Haohan Wang, Xindi Wu, **Zeyi Huang**, Eric P. Xing  
-[PDF](https://arxiv.org/abs/1905.13545) to appear
+[PDF](https://arxiv.org/abs/1905.13545)
 
 Improving Object Detection with Inverted Attention  
 **Zeyi Huang**, Wei Ke, Dong Huang  
