@@ -23,4 +23,4 @@ Improving Object Detection with Inverted Attention
 
 Discriminative Feature Learning with Consistent Attention Regularization for Person Re-identification  
 Sanping Zhou, Fei Wang, **Zeyi Huang**, and Jinjun Wang  
-[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhou_Discriminative_Feature_Learning_With_Consistent_Attention_Regularization_for_Person_Re-Identification_ICCV_2019_paper.pdf),ICCV,2019
+[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhou_Discriminative_Feature_Learning_With_Consistent_Attention_Regularization_for_Person_Re-Identification_ICCV_2019_paper.pdf),ICCV2019
