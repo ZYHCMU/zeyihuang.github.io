@@ -11,15 +11,15 @@ PDF to appear
 
 Multiple Anchor Learning for Visual Object Detection  
 Wei Ke<sup>*</sup>, Tianliang Zhang<sup>*</sup>, **Zeyi Huang**, Qixiang Ye, Jianzhuang Liu, Dong Huang  
-[PDF](https://arxiv.org/pdf/1912.02252.pdf),Code
+[PDF](https://arxiv.org/pdf/1912.02252.pdf),Code,CVPR2020
 
 High-frequency Component Helps Explain the Generalization of Convolutional Neural Networks  
 Haohan Wang, Xindi Wu, **Zeyi Huang**, Eric P. Xing  
-[PDF](https://arxiv.org/abs/1905.13545)
+[PDF](https://arxiv.org/abs/1905.13545),CVPR2020
 
 Improving Object Detection with Inverted Attention  
 **Zeyi Huang**, Wei Ke, Dong Huang  
-[PDF](https://arxiv.org/pdf/1903.12255.pdf),[Code](https://github.com/Justinhzy/IAN),WACV,2020
+[PDF](https://arxiv.org/pdf/1903.12255.pdf),[Code](https://github.com/Justinhzy/IAN),WACV2020
 
 Discriminative Feature Learning with Consistent Attention Regularization for Person Re-identification  
 Sanping Zhou, Fei Wang, **Zeyi Huang**, and Jinjun Wang  
