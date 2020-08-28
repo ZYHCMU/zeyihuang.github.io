@@ -10,7 +10,7 @@ Self-Challenging Improves Cross-Domain Generalization
 [PDF](https://arxiv.org/pdf/2007.02454.pdf),[Code](https://github.com/DeLightCMU/RSC),ECCV2020(**Oral 2%**)
 
 Multiple Anchor Learning for Visual Object Detection  
-Wei Ke<sup>*</sup>, Tianliang Zhang<sup>*</sup>, **Zeyi Huang**, Qixiang Ye, Jianzhuang Liu, Dong Huang  
+Wei Ke, Tianliang Zhang, **Zeyi Huang**, Qixiang Ye, Jianzhuang Liu, Dong Huang  
 [PDF](https://arxiv.org/pdf/1912.02252.pdf),[Code](https://github.com/CVPR765/MAL),CVPR2020
 
 High-frequency Component Helps Explain the Generalization of Convolutional Neural Networks  
