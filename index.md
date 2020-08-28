@@ -9,7 +9,7 @@ My research interest: Computer Vision, Machine Learning
 **Zeyi Huang**<sup>*</sup>, Haohan Wang<sup>*</sup>, Eric P. Xing, Dong Huang 
 [Code](https://github.com/DeLightCMU/RSC),ECCV2020(**Oral 2%**)
 
-[High-frequency Component Helps Explain the Generalization of Convolutional Neural Networks](https://arxiv.org/abs/1905.13545)  
+[High-frequency Component Helps Explain the Generalization of Convolutional Neural Networks](https://arxiv.org/pdf/1905.13545.pdf)  
 Haohan Wang, Xindi Wu, **Zeyi Huang**, Eric P. Xing  
 [Code](https://github.com/HaohanWang/HFC),CVPR2020(**Oral 5%**)
 
