@@ -15,7 +15,7 @@ Wei Ke<sup>*</sup>, Tianliang Zhang<sup>*</sup>, **Zeyi Huang**, Qixiang Ye, Jia
 
 High-frequency Component Helps Explain the Generalization of Convolutional Neural Networks  
 Haohan Wang, Xindi Wu, **Zeyi Huang**, Eric P. Xing  
-[PDF](https://arxiv.org/abs/1905.13545),Code,CVPR2020(Oral 5%)
+[PDF](https://arxiv.org/abs/1905.13545),[Code](https://github.com/HaohanWang/HFC),CVPR2020(Oral 5%)
 
 Improving Object Detection with Inverted Attention  
 **Zeyi Huang**, Wei Ke, Dong Huang  
@@ -23,4 +23,4 @@ Improving Object Detection with Inverted Attention
 
 Discriminative Feature Learning with Consistent Attention Regularization for Person Re-identification  
 Sanping Zhou, Fei Wang, **Zeyi Huang**, and Jinjun Wang  
-[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhou_Discriminative_Feature_Learning_With_Consistent_Attention_Regularization_for_Person_Re-Identification_ICCV_2019_paper.pdf),ICCV2019
+[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhou_Discriminative_Feature_Learning_With_Consistent_Attention_Regularization_for_Person_Re-Identification_ICCV_2019_paper.pdf),Code,ICCV2019
