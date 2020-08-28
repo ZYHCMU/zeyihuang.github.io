@@ -6,7 +6,7 @@ My research interest: computer vision, machine learning
 ## Publications
 
 Self-Challenging Improves Cross-Domain Generalization  
-**Zeyi Huang**<sup>*</sup>, Haohan Wang<sup>*</sup>, Dong Huang, Eric P. Xing  
+**Zeyi Huang**<sup>*</sup>, Haohan Wang<sup>*</sup>, Eric P. Xing, Dong Huang 
 [PDF](https://arxiv.org/pdf/2007.02454.pdf),[Code](https://github.com/DeLightCMU/RSC),ECCV2020(**Oral 2%**)
 
 Multiple Anchor Learning for Visual Object Detection  
