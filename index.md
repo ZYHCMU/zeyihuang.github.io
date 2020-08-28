@@ -7,15 +7,15 @@ My research interest: computer vision, machine learning
 
 Self-Challenging Improves Cross-Domain Generalization  
 **Zeyi Huang**<sup>*</sup>, Haohan Wang<sup>*</sup>, Dong Huang, Eric P. Xing  
-PDF to appear
+[PDF](https://arxiv.org/pdf/2007.02454.pdf),[Code](https://github.com/DeLightCMU/RSC),ECCV2020(Oral 2%)
 
 Multiple Anchor Learning for Visual Object Detection  
 Wei Ke<sup>*</sup>, Tianliang Zhang<sup>*</sup>, **Zeyi Huang**, Qixiang Ye, Jianzhuang Liu, Dong Huang  
-[PDF](https://arxiv.org/pdf/1912.02252.pdf),Code,CVPR2020
+[PDF](https://arxiv.org/pdf/1912.02252.pdf),[Code](https://github.com/CVPR765/MAL),CVPR2020
 
 High-frequency Component Helps Explain the Generalization of Convolutional Neural Networks  
 Haohan Wang, Xindi Wu, **Zeyi Huang**, Eric P. Xing  
-[PDF](https://arxiv.org/abs/1905.13545),Code,CVPR2020(Oral)
+[PDF](https://arxiv.org/abs/1905.13545),Code,CVPR2020(Oral 5%)
 
 Improving Object Detection with Inverted Attention  
 **Zeyi Huang**, Wei Ke, Dong Huang  
