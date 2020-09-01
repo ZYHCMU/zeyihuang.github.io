@@ -1,7 +1,7 @@
 ## About Me
 Currently, I am a research associate in [Human Sensing Lab](http://humansensing.cs.cmu.edu/), [Robotics Institute of Carnegie Mellon University](https://www.ri.cmu.edu/). I obtained my M.S. degree from Robotics Institute of Carnegie Mellon University, and B.E. degree from Nanjing University of Science and Technology.  
 
-My research interest lies at the intersection of computer vision and machine learning, particularly explainable machine learning, object detection(weakly, semi and fully supervised) and domain adaptation.
+My research interest lies in computer vision and machine learning, particularly explainable machine learning, object detection(weakly, semi and fully supervised) and domain adaptation.
 
 ## Publications
 
