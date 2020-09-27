@@ -4,9 +4,12 @@ Currently, I am a research associate in [Human Sensing Lab](http://humansensing.
 My research interest lies in computer vision and machine learning, particularly explainable machine learning, object detection(weakly, semi and fully supervised) and domain adaptation.
 
 ## Publications
+[Complementary Attention Self-Distillation for Weakly-Supervised Object Detection]()  
+**Zeyi Huang**, Yang Zou, B. V. K. Vijaya Kumar, Dong Huang 
+[Code](),NeurIPS2020
 
 [Self-Challenging Improves Cross-Domain Generalization](https://arxiv.org/pdf/2007.02454.pdf)  
-**Zeyi Huang**<sup>*</sup>, Haohan Wang<sup>*</sup>, Eric P. Xing, Dong Huang 
+**Zeyi Huang**<sup>*</sup>, Haohan Wang<sup>*</sup>, Dong Huang, Eric P. Xing 
 [Code](https://github.com/DeLightCMU/RSC),ECCV2020(**Oral 2%**)
 
 [High-frequency Component Helps Explain the Generalization of Convolutional Neural Networks](https://arxiv.org/pdf/1905.13545.pdf)  
