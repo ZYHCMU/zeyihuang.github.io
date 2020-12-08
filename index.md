@@ -4,7 +4,7 @@ Currently, I am a research associate in [Human Sensing Lab](http://humansensing.
 My research interest lies in computer vision and machine learning, particularly explainable machine learning, object detection(weakly, semi and fully supervised) and domain adaptation.
 
 ## Publications
-[Complementary Attention Self-Distillation for Weakly-Supervised Object Detection]()  
+[Complementary Attention Self-Distillation for Weakly-Supervised Object Detection](https://arxiv.org/pdf/2010.12023.pdf)  
 **Zeyi Huang**<sup>*</sup>, Yang Zou<sup>*</sup>, B. V. K. Vijaya Kumar, Dong Huang 
 [Code](),NeurIPS2020
 
