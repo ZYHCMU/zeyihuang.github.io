@@ -1,5 +1,5 @@
 ## About Me
-Currently, I am a research associate in [Human Sensing Lab](http://humansensing.cs.cmu.edu/), [Robotics Institute of Carnegie Mellon University](https://www.ri.cmu.edu/). I obtained my M.S. degree from Robotics Institute of Carnegie Mellon University, and B.E. degree from Nanjing University of Science and Technology.  
+Currently, I am a research associate in [Human Sensing Lab](http://humansensing.cs.cmu.edu/), [Robotics Institute of Carnegie Mellon University](https://www.ri.cmu.edu/). I obtained my M.S. degree from the Robotics Institute of Carnegie Mellon University, and my B.E. degree from Nanjing University of Science and Technology.  
 
 My research interest lies in computer vision and machine learning, particularly explainable machine learning, object detection(weakly, semi and fully supervised) and domain adaptation.
 
@@ -9,7 +9,7 @@ My research interest lies in computer vision and machine learning, particularly 
 [Code](),NeurIPS2020
 
 [Self-Challenging Improves Cross-Domain Generalization](https://arxiv.org/pdf/2007.02454.pdf)  
-**Zeyi Huang**<sup>*</sup>, Haohan Wang<sup>*</sup>, Dong Huang, Eric P. Xing 
+**Zeyi Huang**<sup>*</sup>, Haohan Wang<sup>*</sup>, Eric P. Xing, Dong Huang 
 [Code](https://github.com/DeLightCMU/RSC),ECCV2020(**Oral 2%**)
 
 [High-frequency Component Helps Explain the Generalization of Convolutional Neural Networks](https://arxiv.org/pdf/1905.13545.pdf)  
