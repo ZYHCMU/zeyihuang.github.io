@@ -1,5 +1,5 @@
 ## About Me
-Currently, I am a research associate in [Human Sensing Lab](http://humansensing.cs.cmu.edu/), [Robotics Institute of Carnegie Mellon University](https://www.ri.cmu.edu/), advised by [Dr. Dong Huang](https://www.donghuang-research.com/). I obtained my M.S. degree from the Robotics Institute of Carnegie Mellon University, and my B.E. degree from Nanjing University of Science and Technology.  
+Currently, I am a research associate in [Human Sensing Lab](http://humansensing.cs.cmu.edu/), [Robotics Institute of Carnegie Mellon University](https://www.ri.cmu.edu/), advised by [Dr. Dong Huang](https://www.donghuang-research.com/). I obtained my M.S. degree from the Robotics Institute of Carnegie Mellon University, and my B.E. degree from Nanjing University of Science and Technology, advised by [Prof. Hui Kong](https://sites.google.com/view/huikonglab/home?authuser=0).  
 
 My research interest lies in computer vision and machine learning, particularly explainable machine learning, object detection and domain adaptation. Download [CV]().
 
